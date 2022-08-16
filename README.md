@@ -6,3 +6,6 @@ This project uses lattigo library to encrypt the plain text and output the ciphe
 the STARK prover can consume the file and perform the compute, the result(which is also a cipher text) and
 proof will be produced, which can be verified by STARK verifier. Lastly, the cipher result can be decrypted
 by this project and get the plain text result.
+
+# Companion Project
+<https://github.com/Vesnica/STARK-HE.git>
